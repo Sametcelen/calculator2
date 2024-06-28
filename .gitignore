@@ -1,0 +1,9 @@
+*.class
+*.o
+*.log
+
+*.tmp
+*.swp
+
+/HesapMakinesi.html
+/dist
